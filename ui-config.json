@@ -1,11 +1,12 @@
 {
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "",
-    "txt2img/Negative prompt/visible": false,
-    "txt2img/Negative prompt/value": "watermark,text, logo,contact, error, blurry, cropped, username, artist name, (worst quality, low quality:1.4),",
+    "txt2img/Negative prompt/visible": true,
+    "txt2img/Negative prompt/value": "",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
-        "Random"
+        "NegativeBase",
+        "Quality"
     ],
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "UniPC",
@@ -48,12 +49,12 @@
     "txt2img/Resize height to/maximum": 2048,
     "txt2img/Resize height to/step": 8,
     "txt2img/Width/visible": true,
-    "txt2img/Width/value": 540,
+    "txt2img/Width/value": 512,
     "txt2img/Width/minimum": 64,
     "txt2img/Width/maximum": 1200,
     "txt2img/Width/step": 8,
     "txt2img/Height/visible": true,
-    "txt2img/Height/value": 960,
+    "txt2img/Height/value": 768,
     "txt2img/Height/minimum": 64,
     "txt2img/Height/maximum": 1200,
     "txt2img/Height/step": 8,
