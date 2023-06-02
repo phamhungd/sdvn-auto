@@ -1270,7 +1270,8 @@ button#arc_show_calculator_button {
 }
 #txt2img_settings > div:nth-child(1),
 #txt2img_settings > div:nth-child(2),
-#txt2img_settings > div:nth-child(3) {
+#txt2img_settings > div:nth-child(3),
+#txt2img_settings > div:nth-child(5) {
   display: none;
 }
 /* #quicksettings {
