@@ -1315,3 +1315,6 @@ button#extras_tab {
 #txt2img_prompt_container textarea {
   height: 144px !important;
 }
+#script_txt2img_adetailer_ad_main_accordion {
+  display: none;
+}
