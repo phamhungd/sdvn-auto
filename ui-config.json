@@ -5,7 +5,7 @@
     "txt2img/Negative prompt/value": "watermark,text, logo,contact, error, blurry, cropped, username, artist name, (worst quality, low quality:1.4),",
     "txt2img/Styles/visible": true,
     "txt2img/Styles/value": [
-        "Random"
+        
     ],
     "txt2img/Sampling method/visible": true,
     "txt2img/Sampling method/value": "UniPC",
